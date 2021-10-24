@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vanhoaltw/Todo-List.git/static/css/main.ac35c5f8.chunk.css",
+    "main.js": "/vanhoaltw/Todo-List.git/static/js/main.7324fe54.chunk.js",
+    "main.js.map": "/vanhoaltw/Todo-List.git/static/js/main.7324fe54.chunk.js.map",
+    "runtime-main.js": "/vanhoaltw/Todo-List.git/static/js/runtime-main.5c8a3e8e.js",
+    "runtime-main.js.map": "/vanhoaltw/Todo-List.git/static/js/runtime-main.5c8a3e8e.js.map",
+    "static/js/2.5d5ab7fc.chunk.js": "/vanhoaltw/Todo-List.git/static/js/2.5d5ab7fc.chunk.js",
+    "static/js/2.5d5ab7fc.chunk.js.map": "/vanhoaltw/Todo-List.git/static/js/2.5d5ab7fc.chunk.js.map",
+    "index.html": "/vanhoaltw/Todo-List.git/index.html",
+    "static/css/main.ac35c5f8.chunk.css.map": "/vanhoaltw/Todo-List.git/static/css/main.ac35c5f8.chunk.css.map",
+    "static/js/2.5d5ab7fc.chunk.js.LICENSE.txt": "/vanhoaltw/Todo-List.git/static/js/2.5d5ab7fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c8a3e8e.js",
+    "static/js/2.5d5ab7fc.chunk.js",
+    "static/css/main.ac35c5f8.chunk.css",
+    "static/js/main.7324fe54.chunk.js"
+  ]
+}
